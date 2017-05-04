@@ -8,9 +8,8 @@ Setup
                           Wait Until Page Contains      ${KeyLogin}
                           Set Selenium Speed            ${KeySpeed}
                           Set Selenium Timeout          ${KeyTimeout}
-
                           Delete all cookies
-                          #insert an assertion
+                          
 
 Teardown
                           Close all Browsers

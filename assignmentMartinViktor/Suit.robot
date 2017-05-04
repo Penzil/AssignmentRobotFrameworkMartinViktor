@@ -6,6 +6,7 @@ resource                  Log_in.robot
 resource                  Dashbord.robot
 resource                  CreateNewClient.robot
 resource                  ST.robot
+resource                  enviroment_veriables.robot
 Test setup                Setup
 Test Teardown             Teardown
 

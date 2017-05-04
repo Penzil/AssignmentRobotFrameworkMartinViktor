@@ -4,8 +4,7 @@ Library               Selenium2Library
 Library               String
 resource              Uppgifter.robot
 resource              View.robot
-Test setup            Setup
-Test Teardown         Teardown
+
 
 
 
